@@ -1,5 +1,4 @@
 ﻿using System.Net.Http;
-using Authentication.WeChat.MediaPlatform;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.DataProtection;
 using Microsoft.Extensions.Options;
