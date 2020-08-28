@@ -1,4 +1,13 @@
-﻿# How to use
+﻿# What is this
+This project can help you debug your ExternalLogin module in asp.net core 3.1
+
+It don't have ClientId ClientSecret AppId AppSecret etc required when you debug your ExternalLogin. It is just include then use it.
+
+Also, you can customize your simulate token like what you want.
+
+Welcome leave comment or submit bug.
+
+# How to use
 
 1. Add follow code in startup.
 2. Map token key to your claim

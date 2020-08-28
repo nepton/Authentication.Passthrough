@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project\\Learn\\IdentityServer\\Authentication.Passthrough\\Authentication.Passthrough.csproj",
-      "projectName": "AspNetCore.Authentication.Passthrough",
-      "projectPath": "D:\\Project\\Learn\\IdentityServer\\Authentication.Passthrough\\Authentication.Passthrough.csproj",
+      "projectUniqueName": "D:\\Project\\Modules\\AspnetCore.Authentication.Passthrough\\Authentication.Passthrough\\Authentication.Passthrough.csproj",
+      "projectName": "Authentication.Passthrough",
+      "projectPath": "D:\\Project\\Modules\\AspnetCore.Authentication.Passthrough\\Authentication.Passthrough\\Authentication.Passthrough.csproj",
       "packagesPath": "C:\\Users\\Nepton\\.nuget\\packages\\",
-      "outputPath": "D:\\Project\\Learn\\IdentityServer\\Authentication.Passthrough\\obj\\",
+      "outputPath": "D:\\Project\\Modules\\AspnetCore.Authentication.Passthrough\\Authentication.Passthrough\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

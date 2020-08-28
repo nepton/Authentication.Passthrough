@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zuBtr/WPxtYtSJyttXWk1I4YJHfJ7nuyox9012clZeQtpgXl7O8NN+ibiO0965qgd6M8rxunyJH9yn9m1GXQ/w==",
+  "dgSpecHash": "6YOsiyL+wIoT44KIDg/Fw2xIdjNcoctyr9qcx3O29qa4hdnymktcUiHXMWJQ7KrwvZS5TY2wsH9ftzUoHrpmUQ==",
   "success": true,
-  "projectFilePath": "D:\\Project\\Learn\\IdentityServer\\Authentication.Passthrough\\Authentication.Passthrough.csproj",
+  "projectFilePath": "D:\\Project\\Modules\\AspnetCore.Authentication.Passthrough\\Authentication.Passthrough\\Authentication.Passthrough.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
