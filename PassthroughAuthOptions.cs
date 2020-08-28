@@ -4,6 +4,9 @@ using Microsoft.AspNetCore.Http;
 
 namespace Authentication.Passthrough
 {
+    /// <summary>
+    /// options
+    /// </summary>
     public class PassthroughAuthOptions : OAuthOptions
     {
         public string RefreshTokenEndpoint { get; set; }
