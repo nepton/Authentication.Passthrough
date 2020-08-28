@@ -10,6 +10,7 @@ namespace Authentication.Passthrough
 
         public string ValidateTokenEndpoint { get; set; }
 
+
         /// <summary>
         /// 模拟的Token
         /// </summary>
