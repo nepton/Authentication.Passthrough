@@ -11,7 +11,7 @@ using Microsoft.AspNetCore.WebUtilities;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 
-namespace AspNetCore.Authentication.Passthrough
+namespace Authentication.Passthrough
 {
     public class PassthroughAuthHandler : RemoteAuthenticationHandler<PassthroughAuthOptions>
     {

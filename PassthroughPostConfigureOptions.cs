@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.DataProtection;
 using Microsoft.Extensions.Options;
 
-namespace AspNetCore.Authentication.Passthrough
+namespace Authentication.Passthrough
 {
     public class PassthroughPostConfigureOptions : IPostConfigureOptions<PassthroughAuthOptions>
     {

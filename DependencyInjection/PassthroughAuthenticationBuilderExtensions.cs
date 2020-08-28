@@ -4,7 +4,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.DependencyInjection.Extensions;
 using Microsoft.Extensions.Options;
 
-namespace AspNetCore.Authentication.Passthrough.DependencyInjection
+namespace Authentication.Passthrough.DependencyInjection
 {
     public static class PassthroughAuthenticationBuilderExtensions
     {

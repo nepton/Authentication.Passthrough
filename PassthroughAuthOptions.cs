@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Authentication.OAuth;
 using Microsoft.AspNetCore.Http;
 
-namespace AspNetCore.Authentication.Passthrough
+namespace Authentication.Passthrough
 {
     public class PassthroughAuthOptions : OAuthOptions
     {
