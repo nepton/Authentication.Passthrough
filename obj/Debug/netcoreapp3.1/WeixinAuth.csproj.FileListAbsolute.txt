@@ -1,0 +1,9 @@
+﻿D:\Project\Work\OulidaIdentity\src\WeixinAuth\bin\Debug\netcoreapp3.1\Myvas.AspNetCore.Authentication.WeixinAuth.deps.json
+D:\Project\Work\OulidaIdentity\src\WeixinAuth\bin\Debug\netcoreapp3.1\Myvas.AspNetCore.Authentication.WeixinAuth.dll
+D:\Project\Work\OulidaIdentity\src\WeixinAuth\bin\Debug\netcoreapp3.1\Myvas.AspNetCore.Authentication.WeixinAuth.pdb
+D:\Project\Work\OulidaIdentity\src\WeixinAuth\obj\Debug\netcoreapp3.1\WeixinAuth.csprojAssemblyReference.cache
+D:\Project\Work\OulidaIdentity\src\WeixinAuth\obj\Debug\netcoreapp3.1\WeixinAuth.AssemblyInfoInputs.cache
+D:\Project\Work\OulidaIdentity\src\WeixinAuth\obj\Debug\netcoreapp3.1\WeixinAuth.AssemblyInfo.cs
+D:\Project\Work\OulidaIdentity\src\WeixinAuth\obj\Debug\netcoreapp3.1\WeixinAuth.csproj.CoreCompileInputs.cache
+D:\Project\Work\OulidaIdentity\src\WeixinAuth\obj\Debug\netcoreapp3.1\Myvas.AspNetCore.Authentication.WeixinAuth.dll
+D:\Project\Work\OulidaIdentity\src\WeixinAuth\obj\Debug\netcoreapp3.1\Myvas.AspNetCore.Authentication.WeixinAuth.pdb

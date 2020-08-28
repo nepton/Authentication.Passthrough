@@ -1,0 +1,8 @@
+﻿D:\Project\Work\EduExpress\EduExpressAuth\src\WeixinMediaPlatformAuth\obj\Debug\netcoreapp3.1\WeixinMediaPlatformAuth.csprojAssemblyReference.cache
+D:\Project\Work\EduExpress\EduExpressAuth\src\WeixinMediaPlatformAuth\obj\Debug\netcoreapp3.1\WeixinMediaPlatformAuth.AssemblyInfoInputs.cache
+D:\Project\Work\EduExpress\EduExpressAuth\src\WeixinMediaPlatformAuth\obj\Debug\netcoreapp3.1\WeixinMediaPlatformAuth.AssemblyInfo.cs
+D:\Project\Work\EduExpress\EduExpressAuth\src\WeixinMediaPlatformAuth\obj\Debug\netcoreapp3.1\Myvas.AspNetCore.Authentication.WeixinAuth.dll
+D:\Project\Work\EduExpress\EduExpressAuth\src\WeixinMediaPlatformAuth\obj\Debug\netcoreapp3.1\Myvas.AspNetCore.Authentication.WeixinAuth.pdb
+D:\Project\Work\EduExpress\EduExpressAuth\src\WeixinMediaPlatformAuth\bin\Debug\netcoreapp3.1\Myvas.AspNetCore.Authentication.WeixinAuth.deps.json
+D:\Project\Work\EduExpress\EduExpressAuth\src\WeixinMediaPlatformAuth\bin\Debug\netcoreapp3.1\Myvas.AspNetCore.Authentication.WeixinAuth.dll
+D:\Project\Work\EduExpress\EduExpressAuth\src\WeixinMediaPlatformAuth\bin\Debug\netcoreapp3.1\Myvas.AspNetCore.Authentication.WeixinAuth.pdb

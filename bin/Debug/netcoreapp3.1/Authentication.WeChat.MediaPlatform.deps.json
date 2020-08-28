@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Authentication.WeChat.MediaPlatform/3.1.0.1": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Authentication.Google": "3.1.5"
+        },
+        "runtime": {
+          "Authentication.WeChat.MediaPlatform.dll": {}
+        }
+      },
+      "Microsoft.AspNetCore.Authentication.Google/3.1.5": {
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.AspNetCore.Authentication.Google.dll": {
+            "assemblyVersion": "3.1.5.0",
+            "fileVersion": "3.100.520.27105"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Authentication.WeChat.MediaPlatform/3.1.0.1": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.AspNetCore.Authentication.Google/3.1.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5fGJ3eKAEJRqu+cUqC2tVvITrbBx8x5JJbQbpD81Ob1q/My9pDitwaaDSBSkNeQ0J4J33Mub1D+3xS9K/9cTxg==",
+      "path": "microsoft.aspnetcore.authentication.google/3.1.5",
+      "hashPath": "microsoft.aspnetcore.authentication.google.3.1.5.nupkg.sha512"
+    }
+  }
+}
