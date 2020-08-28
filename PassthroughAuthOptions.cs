@@ -27,8 +27,8 @@ namespace Authentication.Passthrough
         {
             CallbackPath          = new PathString(PassthroughDefaults.CallbackPath);
             AuthorizationEndpoint = PassthroughDefaults.AuthorizationEndpoint;
-
-            ClaimsIssuer = PassthroughDefaults.ClaimsIssuer;
+            TokenEndpoint         = "not supported";
+            ClaimsIssuer          = PassthroughDefaults.ClaimsIssuer;
 
             ClientId     = "passthrough";
             ClientSecret = "passthrough";
