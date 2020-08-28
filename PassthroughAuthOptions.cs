@@ -1,16 +1,23 @@
-﻿using System.Security.Claims;
-using Authentication.WeChat.MediaPlatform;
-using Microsoft.AspNetCore.Authentication;
+﻿using System;
 using Microsoft.AspNetCore.Authentication.OAuth;
 using Microsoft.AspNetCore.Http;
 
-namespace Authentication.Passthrough
+namespace AspNetCore.Authentication.Passthrough
 {
     public class PassthroughAuthOptions : OAuthOptions
     {
         public string RefreshTokenEndpoint { get; set; }
 
         public string ValidateTokenEndpoint { get; set; }
+
+        /// <summary>
+        /// 模拟的Token
+        /// </summary>
+        public Func<object> PassthroughTokenHandler
+        {
+            get;
+            set;
+        }
 
         public PassthroughAuthOptions()
         {
@@ -19,8 +26,8 @@ namespace Authentication.Passthrough
 
             ClaimsIssuer = PassthroughDefaults.ClaimsIssuer;
 
-            ClaimActions.MapJsonKey(ClaimTypes.Name, "screen_name");
-            ClaimActions.MapJsonKey("sub",           "user_id");
+            ClientId     = "passthrough";
+            ClientSecret = "passthrough";
         }
     }
 }

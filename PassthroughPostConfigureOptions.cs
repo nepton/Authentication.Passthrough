@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.DataProtection;
 using Microsoft.Extensions.Options;
 
-namespace Authentication.Passthrough
+namespace AspNetCore.Authentication.Passthrough
 {
     public class PassthroughPostConfigureOptions : IPostConfigureOptions<PassthroughAuthOptions>
     {
@@ -20,7 +20,7 @@ namespace Authentication.Passthrough
             if (options.Backchannel == null)
             {
                 options.Backchannel = new HttpClient(options.BackchannelHttpHandler ?? new HttpClientHandler());
-                options.Backchannel.DefaultRequestHeaders.UserAgent.ParseAdd("Microsoft ASP.NET Core OAuth handler");
+                options.Backchannel.DefaultRequestHeaders.UserAgent.ParseAdd("Passthrough OAuth handler");
                 options.Backchannel.Timeout                      = options.BackchannelTimeout;
                 options.Backchannel.MaxResponseContentBufferSize = 1024 * 1024 * 10; // 10 MB
             }

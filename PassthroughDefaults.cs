@@ -1,4 +1,4 @@
-﻿namespace Authentication.Passthrough
+﻿namespace AspNetCore.Authentication.Passthrough
 {
     public static class PassthroughDefaults
     {

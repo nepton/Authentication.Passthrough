@@ -1,15 +1,11 @@
 ﻿using System;
-using Authentication.Passthrough;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.DependencyInjection.Extensions;
 using Microsoft.Extensions.Options;
 
-namespace Authentication.WeChat.MediaPlatform
+namespace AspNetCore.Authentication.Passthrough.DependencyInjection
 {
-    /// <summary>
-    /// 微信公众平台
-    /// </summary>
     public static class PassthroughAuthenticationBuilderExtensions
     {
         public static AuthenticationBuilder AddPassthroughTest(this AuthenticationBuilder builder)
