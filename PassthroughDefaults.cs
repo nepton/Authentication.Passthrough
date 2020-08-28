@@ -1,4 +1,4 @@
-﻿namespace Authentication.WeChat.MediaPlatform
+﻿namespace Authentication.Passthrough
 {
     public static class PassthroughDefaults
     {
