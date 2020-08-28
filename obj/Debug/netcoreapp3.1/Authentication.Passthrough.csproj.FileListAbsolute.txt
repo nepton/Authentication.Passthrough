@@ -10,3 +10,4 @@ D:\Project\Learn\IdentityServer\Authentication.Passthrough\obj\Debug\netcoreapp3
 D:\Project\Learn\IdentityServer\Authentication.Passthrough\obj\Debug\netcoreapp3.1\staticwebassets\Authentication.Passthrough.StaticWebAssets.xml
 D:\Project\Learn\IdentityServer\Authentication.Passthrough\obj\Debug\netcoreapp3.1\Authentication.Passthrough.dll
 D:\Project\Learn\IdentityServer\Authentication.Passthrough\obj\Debug\netcoreapp3.1\Authentication.Passthrough.pdb
+D:\Project\Learn\IdentityServer\Authentication.Passthrough\bin\Debug\netcoreapp3.1\Properties\launchSettings.json

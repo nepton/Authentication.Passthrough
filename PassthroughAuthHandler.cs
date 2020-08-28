@@ -5,14 +5,13 @@ using System.Security.Claims;
 using System.Text.Encodings.Web;
 using System.Text.Json;
 using System.Threading.Tasks;
-using Authentication.Passthrough;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authentication.OAuth;
 using Microsoft.AspNetCore.WebUtilities;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 
-namespace Authentication.WeChat.MediaPlatform
+namespace Authentication.Passthrough
 {
     internal class PassthroughAuthHandler : RemoteAuthenticationHandler<PassthroughAuthOptions>
     {
