@@ -10,7 +10,7 @@ Welcome leave comment or submit bug.
 # How to use
 
 1. Add follow code in startup.
-2. Map token key to your claim
+2. Map token key to your claims
 
 > enjoy it :)
 > 
